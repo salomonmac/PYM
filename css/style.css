@@ -85,4 +85,73 @@ hr{
     filter:alpha(opacity=90);
     opacity:.90;
 }
+#f-1{
+    background-image: url(../img/Paginas%20Web.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 8em;
+}
+#f-2{
+    background-image: url(../img/App%20Development.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 8em;
+}
+#f-3{
+    background-image: url(../img/Servicio%20Redes.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 8em;
+}
+#f-4{
+    background-image: url(../img/Email%20Marketing.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 8em;
+}
 
+#f-5{
+    background-image: url(../img/Dise%C3%B1o%20Corporativo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 8em;
+}
+#f-6{
+    background-image: url(../img/Facebook%20Ads.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 8em;
+}
+
+#f-7{
+    background-image: url(../img/AdWords.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 8em;
+}
+
+#f-8{
+    background-image: url(../img/Fotos%20y%20Videos.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 8em;
+}
+.nuestro-servicio h3{
+ color: white;
+}

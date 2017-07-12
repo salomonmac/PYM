@@ -1,0 +1,81 @@
+@media screen and (min-width: 1600px) {
+     
+}
+@media screen and (min-width: 1024px) and (max-width: 1119px) {
+    #f-1{
+    background-image: url(../img/Paginas%20Web.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 4em;
+}
+#f-2{
+    background-image: url(../img/App%20Development.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 4em;
+}
+#f-3{
+    background-image: url(../img/Servicio%20Redes.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 4em;
+}
+#f-4{
+    background-image: url(../img/Email%20Marketing.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 4em;
+}
+
+#f-5{
+    background-image: url(../img/Dise%C3%B1o%20Corporativo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 4em;
+}
+#f-6{
+    background-image: url(../img/Facebook%20Ads.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 4em;
+}
+
+#f-7{
+    background-image: url(../img/AdWords.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 4em;
+}
+
+#f-8{
+    background-image: url(../img/Fotos%20y%20Videos.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    padding-bottom: 4em;
+}
+    .nuestro-servicio h3{
+font-size: 20px;
+}
+   
+}
+@media screen and (min-width: 764px) and (max-width: 1023px) {
+}
+@media screen and (min-width: 300px) and (max-width: 763px) {
+
+}
