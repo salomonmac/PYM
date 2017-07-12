@@ -75,7 +75,19 @@ font-size: 20px;
    
 }
 @media screen and (min-width: 764px) and (max-width: 1023px) {
+    .sec-2 {
+    width: 100%;
+    margin: 0 auto;
+}
 }
 @media screen and (min-width: 300px) and (max-width: 763px) {
+    .anunciarte img {
+    margin-top: 15px;
+    height: 40px;
+}
+    .sec-2 {
+    width: 100%;
+    margin: 0 auto;
+}
 
 }

@@ -20,6 +20,7 @@
 footer{
     background: #25272e;
     color: #b7b7b7;
+    margin-top: 50px
 }
 footer h4{
     color: white;
@@ -154,4 +155,13 @@ hr{
 }
 .nuestro-servicio h3{
  color: white;
+}
+.anunciarte img{
+    height: 70px;
+}
+.anunciarte h4{
+    margin-top: 26px;
+}
+.contacto{
+    background: #f4f4f4;
 }
