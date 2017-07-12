@@ -43,3 +43,46 @@ footer a:hover, footer a:focus {
 .redes span i face:hover{
     color: blue;
 }
+.redes a{
+    color: white;
+}
+.redes .face-h:hover{
+    transition: 1s;
+    color: #3b5a9a !important;
+}
+.redes .google-h:hover{
+    transition: 1s;
+    color: #dd4b39 !important;
+}
+footer{
+    padding-top:70px;
+}
+.sec-1{
+    padding-bottom: 70px;
+}
+hr{
+   
+}
+.sec-2{
+     width: 81%;
+    margin: 0 auto;
+}
+
+.marca-de-agua {
+    background: #000 url(URL-MARCA-DE-AGUA);
+    width: 500px;
+    height: 341px;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+}
+
+.marca-de-agua img{
+    padding:0;
+    width:100%;
+    height:100%; 
+    margin:0;
+    filter:alpha(opacity=90);
+    opacity:.90;
+}
+
