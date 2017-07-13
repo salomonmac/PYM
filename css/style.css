@@ -20,7 +20,6 @@
 footer{
     background: #25272e;
     color: #b7b7b7;
-    margin-top: 50px
 }
 footer h4{
     color: white;
@@ -153,6 +152,14 @@ hr{
     background-size: contain;
     padding-bottom: 8em;
 }
+#fondo-adwords{
+    background-image: url(/img/fondo-adwords.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: contain;
+    height: 29em;
+}
 .nuestro-servicio h3{
  color: white;
 }
@@ -164,4 +171,54 @@ hr{
 }
 .contacto{
     background: #f4f4f4;
+}
+.v12{
+    border-radius: 5px;
+    margin-bottom: 20px
+}
+.ventajas .v-1{
+    background: #0c9b5b;
+    height: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.ventajas .v-2{
+    background: #12a564;
+    color: white;
+    height: 50px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.ventajas .v-2 p{
+  margin: 5px 0px 0px;
+}
+.ventajas .v-1 i {
+    margin-top: 18px;
+    color: white;
+}
+.fondo-contacto{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background: rgba(67,35,232,1);
+    background: -moz-linear-gradient(left, rgba(67,35,232,1) 0%, rgba(183,171,237,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(67,35,232,1)), color-stop(100%, rgba(183,171,237,1)));
+    background: -webkit-linear-gradient(left, rgba(67,35,232,1) 0%, rgba(183,171,237,1) 100%);
+    background: -o-linear-gradient(left, rgba(67,35,232,1) 0%, rgba(183,171,237,1) 100%);
+    background: -ms-linear-gradient(left, rgba(67,35,232,1) 0%, rgba(183,171,237,1) 100%);
+    background: linear-gradient(to right, rgba(67,35,232,1) 0%, rgba(183,171,237,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4323e8', endColorstr='#b7abed', GradientType=1 );
+}
+.fondo-contacto form{
+    background: #f8f8f8;
+    padding: 20px;
+    
+    border-radius: 10px;
+}
+.fondo-contacto h1{
+    color: white;
+    font-size: 50px;
+}
+.fondo-contacto h2{
+    color: white;
+    font-size: 30px;
 }
