@@ -324,7 +324,7 @@
 }
 @media  (max-width: 480px) {
     .slide-text {
-        padding: 10px 30px;
+        padding: 16px 15px;
     }
     .slide-text h1 {
         font-size: 20px;
