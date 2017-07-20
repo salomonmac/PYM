@@ -226,3 +226,31 @@ hr{
 .fondo-contacto p{
     color: white;
 }
+.ventajas-2 .v123456 i{
+    background: #0c9b5b;
+    color: white;
+    margin-top: 7px;
+    
+}
+.ventajas-2 .v123456 .v-1{
+   background: #0c9b5b;
+    margin-bottom: 5px;
+    height: 30px;
+}
+.ventajas-2 .v123456 .v-2{
+   background: white;
+    margin-bottom: 5px;
+    
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.ventajas-2 .v123456:hover .v-2{
+   background: #0c9b5b;
+    color: white;
+    transition: 0.3s;
+    margin-bottom: 5px;
+    
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
